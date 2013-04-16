@@ -22,6 +22,7 @@ syntax on
 colorscheme jellybeans
 
 " NERDTree mapping
+let NERDTreeShowHidden=1
 map <Leader>nt :NERDTree <cr>
 
 " Strip trailing whitespace (,ss)
