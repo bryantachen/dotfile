@@ -16,6 +16,7 @@ alias tls='cd /Users/brchen/Developement/tools/trunk'
 alias tm='cd /Users/brchen/Developement/tools/trunk/apps/autotestmanager/src/autotestmanager'
 alias stm='/Users/brchen/Developement/tools/trunk/apps/autotestmanager/bin/server-develop'
 alias acttm='. /Users/brchen/.virtualenvs/linkedin/bin/activate'
+alias tmtest='cd /Users/brchen/Developement/tools/trunk/apps/autotestmanager/src/autotestmanager/test/js/specs'
 
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
