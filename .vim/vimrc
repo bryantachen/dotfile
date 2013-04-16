@@ -1,5 +1,5 @@
 " Pathogen Config
-call pathogen#runtime_append_all_bundles()
+call pathogen#incubate()
 call pathogen#helptags()
 
 " General
@@ -24,6 +24,9 @@ colorscheme jellybeans
 " NERDTree mapping
 let NERDTreeShowHidden=1
 map <Leader>nt :NERDTree <cr>
+
+" JSHint
+let g:syntastic_javascript_checker='jshint'
 
 " Strip trailing whitespace (,ss)
 function! StripWhitespace ()
