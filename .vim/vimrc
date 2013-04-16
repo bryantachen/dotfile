@@ -4,9 +4,18 @@ call pathogen#helptags()
 
 " General
 set hidden
-set number
 set vb t_vb=
 set ts=2 sts=2 sw=2 expandtab
+
+" Display
+set number
+set ruler
+set cursorline
+set list
+set listchars=tab:\ \
+set listchars+=trail:.
+set listchars+=extends:>
+set listchars+=precedes:<
 
 " Color Scheme
 syntax on

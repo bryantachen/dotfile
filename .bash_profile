@@ -9,6 +9,3 @@ alias zz='ls -la'
 alias z='ls'
 
 alias u='cd ..'
-
-
-
