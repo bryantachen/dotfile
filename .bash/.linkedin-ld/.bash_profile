@@ -15,6 +15,7 @@ alias hm='cd ~/'
 # Work
 alias tls='cd /Users/brchen/Developement/tools/trunk'
 alias tm='cd /Users/brchen/Developement/tools/trunk/apps/autotestmanager/src/autotestmanager'
+alias vs='cd /Users/brchen/Developement/venus/'
 alias stm='/Users/brchen/Developement/tools/trunk/apps/autotestmanager/bin/server-develop'
 alias acttm='. /Users/brchen/.virtualenvs/linkedin/bin/activate'
 alias tmtest='cd /Users/brchen/Developement/tools/trunk/apps/autotestmanager/test/js/specs'
