@@ -1,0 +1,9 @@
+# Terminal command aliasing
+alias .f='cd ~/.dotfile'
+
+alias zz='ls -la'
+alias z='ls'
+
+alias u='cd ..'
+alias uu='cd ../../'
+alias hm='cd ~/'
